@@ -92,9 +92,9 @@ automatizacion-redes/
         └── verificacion.md
 
 Problemas encontrados y soluciones
-La mayoria de de los programas presentaron problemas para abrirse en el equipo de trabajo. 
+La mayoría de de los programas presentaron problemas para abrirse en el equipo de trabajo. 
 Esto se debia a los permisos de firewall que estaban siendo administrados por el programa de antivirus.
-
+Para descargar VM Workstation debes hacerte una cuenta en Broadcom. Nuestra recomendación es que se utilice un correo personal, ya sea hotmail, gmail u outlook. Ya que existe la posibilidad de que al momento de utilizar un correo empresarial o institucional la cuenta quede bloqueada o que el acceso no funcione.
 
 Conclusiones
 Durante esta práctica, el equipo instaló y configuró herramientas fundamentales para la automatización de redes, como Python, Visual Studio Code, Git, GitHub, Postman, OpenConnect, Docker, GNS3, GNS3 VM y VMware Workstation, verificando su correcto funcionamiento y preparación para futuras prácticas. 
