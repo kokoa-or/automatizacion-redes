@@ -53,15 +53,44 @@ Documentación	  ☐ Publicada en GitHub
 
 Estructura del proyecto
 automatizacion-redes/
+│
 ├── README.md
+│
 ├── requirements.txt
-├── src/ hola_mundo.py
+│
+├── src/
+│   └── hola_mundo.py
+│
 ├── tests/
+│
 ├── data/
-└── docs/practica-01/evidencias/ ├── 01-python.png  ├── 02-vscode.png   ├── 03-python-vscode.png  ├── 04-entorno-virtual.png  ├── 05-hola-mundo.png ├── 06-git.png ├── 07-git-identidad.png ├── 08-github.png   ├── 09-postman.png   ├── 10-openconnect.png  ├── 11-docker.png   ├── 12-gns3.png  ├── 13-gns3-vm.png  ├── 14-vmware.png├── 15-importacion-gns3-vm.png    16-integracion-gns3.png
-├── instalacion.md
-├── configuracion.md
- verificacion.md
+│
+└── docs/
+    │
+    └── practica-01/
+        │
+        ├── evidencias/
+        │   ├── 01-python.png
+        │   ├── 02-vscode.png
+        │   ├── 03-python-vscode.png
+        │   ├── 04-entorno-virtual.png
+        │   ├── 05-hola-mundo.png
+        │   ├── 06-git.png
+        │   ├── 07-git-identidad.png
+        │   ├── 08-github.png
+        │   ├── 09-postman.png
+        │   ├── 10-openconnect.png
+        │   ├── 11-docker.png
+        │   ├── 12-gns3.png
+        │   ├── 13-gns3-vm.png
+        │   ├── 14-vmware.png
+        │   ├── 15-importacion-gns3-vm.png
+        │   └── 16-integracion-gns3.png
+        │
+        ├── instalacion.md
+        ├── configuracion.md
+        └── verificacion.md
+
 
 
 
