@@ -73,3 +73,24 @@ Para descargar VM Workstation debes hacerte una cuenta en Broadcom. Nuestra reco
 Conclusiones
 Durante esta práctica, el equipo instaló y configuró herramientas fundamentales para la automatización de redes, como Python, Visual Studio Code, Git, GitHub, Postman, OpenConnect, Docker, GNS3, GNS3 VM y VMware Workstation, verificando su correcto funcionamiento y preparación para futuras prácticas. Durante el proceso se presentaron algunas dificultades relacionadas con la configuración del intérprete de Python, la activación del entorno virtual y la integración de GNS3 con VMware; sin embargo, estos problemas fueron resueltos mediante la revisión de configuraciones, la validación de versiones compatibles y el seguimiento de la documentación correspondiente. 
 Asimismo, comprendimos que todas las herramientas están estrechamente relacionadas, ya que Python y VS Code permiten desarrollar scripts, Git y GitHub facilitan el control de versiones y el trabajo colaborativo, Postman ayuda a probar APIs, Docker permite ejecutar servicios en contenedores y GNS3 junto con VMware proporcionan un entorno virtual para la simulación de redes. La correcta preparación del entorno de trabajo es esencial porque garantiza compatibilidad, organización y estabilidad durante el desarrollo, reduce errores y permite crear soluciones de automatización de manera más eficiente y segura.
+
+Avance del proyecto integrador
+
+Práctica 1
+Preparación de la estación de automatización de redes.
+Estado: Completada.
+
+Práctica 2
+Construcción de la red simulada en GNS3.
+Estado: 
+
+Infraestructura construida:
+- Topología básica PC-Switch-PC.
+- Topología con dos routers y un switch multicapa.
+- Direccionamiento IP.
+- Conectividad entre dispositivos.
+- Protocolo OSPF.
+- Verificación de tablas de enrutamiento.
+
+Próximo paso:
+Desarrollo de scripts y herramientas para automatizar tareas sobre la infraestructura de red.
